@@ -1,12 +1,3 @@
-# python-for-data-analysis-learning-libraries
-python for data analysis | learning libraries
-
-Learning Numpy, Pandas, Matplotlib, Seaborn, Scikit learn and ETC
-
-<!-- Images/Thumbnail 2.png -->
-
-<img src="./Images/Thumbnail 2.png" width="1920px" height = "1080px" alt="Thumbnail for this Repository">
-
 # 🐍 Python for Data Analysis Learning Libraries
 
 **Data Analysis | Learnings | Libraries | Projects**
@@ -81,3 +72,7 @@ I plan to expand this repository by adding modules on:
 ## 📫 Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zakirhussain13/) to discuss Data Analysis and Python!
+
+
+<!-- Images/Thumbnail 2.png -->
+<img src="./Images/Thumbnail 2.png" width="1920px" height = "1080px" alt="Thumbnail for this Repository">
