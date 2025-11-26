@@ -1,4 +1,4 @@
-# 🐍 Python for Data Analysis Learning Libraries
+# 🐍 Python for Data Analysis Learning and It's Core Libraries
 
 **Data Analysis | Learnings | Libraries | Projects**
 
